@@ -2,7 +2,6 @@
 
 # dependencies
 /.env
-/public
 
 /node_modules
 .env
